@@ -1,0 +1,2 @@
+blender --background --python mball_maker_script.py -- --num_exemplars 200 --out_dir="/Users/kohler/Google Drive/ONGOING/Symmetry_3D/blender_blobs/scripted_blobs/new_set2/symmetric"
+blender --background --python mball_maker_script.py -- --asymmetric --num_exemplars 200 --out_dir="/Users/kohler/Google Drive/ONGOING/Symmetry_3D/blender_blobs/scripted_blobs/new_set2/asymmetric"
